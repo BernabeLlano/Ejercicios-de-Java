@@ -1,5 +1,7 @@
 package ejercicio4;
 
+//SE HAN REALIZADO CAMBIOS DENTRO DEL ARCHIVO
+
 public class Articulo {
     //Creo clases
     private String nombre;
