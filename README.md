@@ -12,4 +12,4 @@ A medida que se vaya avanzando en los ejercicios se irán subiendo las *correspo
 
   1. Útilma actualiación: 08/12/2025 [(Click aqui para consultar versiones)](https://github.com/BernabeLlano/Ejercicios-de-Java/commit/bc2e58912d97c9f72233bea389617cf0ba209e1e)
          
-
+:yum:
