@@ -5,7 +5,7 @@ Estos son algunos de los avances de los ejercicios que estoy haciendo en el mód
 El lenguaje de programación con el que están hechos estos ejercicio es con **Java**, un lenguaje de programación
 bastante utilizado en el desarrollo de la gran mayoría de aplicaciones de escriotrio.
 
-<img src="https://es.vecteezy.com/png/48332150-java-programacion-idioma-java-logo">
+<img src="C:/java-programming-language-java-logo-free-png.png">
 
 ## Actualización de versiones
 A medida que se vaya avanzando en los ejercicios se irán subiendo las *correspondientes actualizaciones*.
