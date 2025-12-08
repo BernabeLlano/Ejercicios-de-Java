@@ -5,7 +5,7 @@ Estos son algunos de los avances de los ejercicios que estoy haciendo en el mód
 El lenguaje de programación con el que están hechos estos ejercicio es con **Java**, un lenguaje de programación
 bastante utilizado en el desarrollo de la gran mayoría de aplicaciones de escriotrio.
 
-<img src="https://logo-teka.com/es/java/">
+<img src="https://logo-teka.com/wp-content/uploads/2025/09/java-icon-logo.svg">
 
 ## Actualización de versiones
 A medida que se vaya avanzando en los ejercicios se irán subiendo las *correspondientes actualizaciones*.
